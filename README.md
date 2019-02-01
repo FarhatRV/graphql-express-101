@@ -5,6 +5,7 @@ A GraphQL service is created by defining types and fields on those types, then p
 For examples in https://medium.freecodecamp.org/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0
 <br/>
 -- follow below example test inputs
+<br/>
 {
   movie(id: 1) {
     name
